@@ -1,4 +1,4 @@
-# CodeClauseInternship_CustomerSegmentation
+# CustomerSegmentation
 [ Customer Segmentation with K-Means Clustering ]
 
 ## Project Overview :
